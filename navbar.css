@@ -1,0 +1,25 @@
+.btn-outline-success {
+  color: #2863a7;
+  background-color: transparent;
+  background-image: none;
+  border-color: #2863a7;
+}
+
+.btn-outline-success:hover{
+  color:#fff;
+  background-color:#2863a7;
+  border-color:#2863a7;
+}
+
+.custom-control-label {
+  position: relative;
+  margin-bottom: 0;
+  color: #fff;
+}
+
+.custom-control {
+  position: relative;
+  display: block;
+  min-height: 1.5rem;
+  padding-left: 1.5rem;
+}
